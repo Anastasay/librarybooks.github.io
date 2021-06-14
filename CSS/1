@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<голова>
+<meta charset=utf-8">
+<title>Форма регистрации</title>
+<link rel="stylesheet" href="css/stylelr4.css" type="text/css">
+</head>
+<тело>
+<заголовок>
+<div class="headerButtons">
+<button class="simpleButton">Главная</button>
+<button class="SimpleButton">Новости < button class = "SimpleButton"></button>
+<button class="SimpleButton">Форум < button class = "SimpleButton" > < / button>
+<button class="wideButton simpleButton">Инструкция</button>
+</div>
+<div class="imageheader">
+<div class="imageBackground">
+"
+fill="none" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1440" height="120" fill="url(#pattern0)"/>
+<defs>
+"
+patternContentUnits="objectBoundingBox" width="1" height="1">
+)
+шкала(0.00117371 0.0140845)"/>
+</pattern>
+"
+xlink:href="!!!!!!!”
+</defs>
+</svg>
+</div>
+<div class="headerButtons">
+<button class="wideButton1">Вход < button class=" wideButton1 " > < /button>
+</div>
+<div class="imageBook">
+"
+fill="none" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="237" height="200" fill="url(#pattern 1)"/>
+<defs>
+"
+patternContentUnits="objectBoundingBox" width="1" height="1">
+)
+масштаб(0,009074 0,0107527)"/>
+</pattern>
+"
+xlink:href="данные!!!!!!”
+</defs>
+</svg>
+</div>
+</div>
+</header>
+<главная>
+<div class="форма">
+<h1>Регистрация пользователя</h1>
+<div class="field">
+ <label for="login">Логин</label>
