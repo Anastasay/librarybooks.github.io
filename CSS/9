@@ -1,0 +1,14 @@
+}
+.footerButton{
+width:272px;
+padding-bottom: 20px;
+ padding-top: 20px;
+font-size: 30px;
+line-height: 35px;
+}
+.footerContact{
+display: flex;
+}
+.contactLabel {
+margin-right: 8px;
+}
