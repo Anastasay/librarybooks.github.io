@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+ <html>
+
+<head>
+<meta charset=utf-8">
+<title>Форма регистрации</title>
+<link rel="stylesheet" href="css/stylelr4.css" type="text/css">
+</head>
+<body>
+<header>
+<div class="headerButtons">
+<button class="simpleButton">Главная</button>
+<button class="simpleButton">Новости</button>
+<button class="simpleButton">Форум</button>
+<button class="wideButton simpleButton">Инструкция</button>
+</div>
+
+<head>
+<style>
+body {
+    background-color: #FDD9B5
+}
+</style>
+</head>
+</html>
+
+<head>
+ <meta content="text/html; charset=utf-8" httpequiv="Content-Type">
+ <title>Форма регистрации</title>
+<link rel="stylesheet" href="ex2.css" type="text/css">
+</head>
+
+<body>
+ <header>
+<img src="image/librarybooks.jpg" alt="" height="90"><img
+src="image/librarybooks111.jpg" alt="">
+<h1>+7(812)444-44-44<br>
+ <div class="contact">librarybooks@mail.ru </div>
+</header>
+
+</defs>
+</svg>
+</div>
+</div>
+</header>
+<main>
+<div class="form">
+<h1>Регистрация пользователя</h1>
+<div class="field">
+ <label for="login">Логин</label>
+
+ <main>
+<form action="act.php" method="POST">
+ <table>
+<tr class="l">
+ <td >Фамилия, Имя, Отчество </td>
+ <td><input type="text" placeholder="Ивлев Сергей Петрович" ></td>
+ </tr>
+
+ <tr class="l">
+ <td>librarybooks</td>
+ <td><textarea></textarea></td>
+ </tr>
+
+ <tr class="r">
+ <td> Ваш почтовый адрес</td>
+ <td> <textarea placeholder="190000, Санкт-Петербург,
+Большой проспект, д.11, пом. 11-11"></textarea></td> 
+ </tr>
+
+ <tr class="l">
+ <td >Телефон мобильный для связи</td>
+ <td ><input type="tel" pattern="+7(911)XXX-XXX"
+placeholder="+7(911)XXX-XХ-XX"></td>
+ </tr>
+
+ <tr class="r">
+ <td> E-mail для уведомлений*</td>
+ <td><input type="email"
+placeholder="librarybooks@mail.ru"></td>
+ </tr>
+
+ <tr class="l">
+ <td>Логин для входа на сайт*</td>
+ <td><input type="email" required="required"
+placeholder="librarybooks@mail.ru"></td>
+ </tr>
+
+ <tr class="r">
+ <td>Пароль для входа на сайт*</td>
+ <td><input type="tel" name="parol_notify"></td>
+ </tr>
+
+ <tr class="l">
+ <td >Ваш почтоый адрес*</td>
+ <td><textarea placeholder="190000, Санкт-Петербург,
+Суворовский проспект, д.15, кв 34"></textarea></td>
+ </tr>
+
+
+ <tr class="r">
+ <td>Дата рождения</td>
+ <td><input type="date" placeholder="01-02-1998"></td>
+ </tr>
+
+
+ <tr class="l">
+ <td colspan="2"
+align="center"><button>Отправить</button></td>
+ </tr>
+ </font>
+ </table>
+ </form>
+</main>
+ </div>
+</body>
+ </html>
