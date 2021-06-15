@@ -57,11 +57,6 @@ src="image/librarybooks111.jpg" alt="">
  <td><input type="text" placeholder="Ивлев Сергей Петрович" ></td>
  </tr>
 
- <tr class="l">
- <td>librarybooks</td>
- <td><textarea></textarea></td>
- </tr>
-
  <tr class="r">
  <td> Ваш почтовый адрес</td>
  <td> <textarea placeholder="190000, Санкт-Петербург,
@@ -75,24 +70,24 @@ placeholder="+7(911)XXX-XХ-XX"></td>
  </tr>
 
  <tr class="r">
- <td> E-mail для уведомлений*</td>
+ <td> E-mail для уведомлений</td>
  <td><input type="email"
 placeholder="librarybooks@mail.ru"></td>
  </tr>
 
  <tr class="l">
- <td>Логин для входа на сайт*</td>
+ <td>Логин для входа на сайт</td>
  <td><input type="email" required="required"
 placeholder="librarybooks@mail.ru"></td>
  </tr>
 
  <tr class="r">
- <td>Пароль для входа на сайт*</td>
+ <td>Пароль для входа на сайт</td>
  <td><input type="tel" name="parol_notify"></td>
  </tr>
 
  <tr class="l">
- <td >Ваш почтоый адрес*</td>
+ <td >Ваш почтоый адрес</td>
  <td><textarea placeholder="190000, Санкт-Петербург,
 Суворовский проспект, д.15, кв 34"></textarea></td>
  </tr>
@@ -102,7 +97,6 @@ placeholder="librarybooks@mail.ru"></td>
  <td>Дата рождения</td>
  <td><input type="date" placeholder="01-02-1998"></td>
  </tr>
-
 
  <tr class="l">
  <td colspan="2"
@@ -115,3 +109,4 @@ align="center"><button>Отправить</button></td>
  </div>
 </body>
  </html>
+
